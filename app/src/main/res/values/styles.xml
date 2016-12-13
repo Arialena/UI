@@ -1,0 +1,109 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Rectangle">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/rectangle_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn1_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Rectangle2">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/rectangle2_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn2_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Rectangle3">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/rectangle3_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn3_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Rectangle4">
+    <item name="android:layout_width">@dimen/btn_width1</item>
+    <item name="android:layout_height">@dimen/btn_height1</item>
+    <item name="android:background">@drawable/rectangle4_item</item>
+    <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn4_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Voal">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/voaleq_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn1_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Voal2">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/voaleq2_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn2_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Voal3">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/voaleq3_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn3_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Voal4">
+        <item name="android:layout_width">@dimen/btn_width1</item>
+        <item name="android:layout_height">@dimen/btn_height1</item>
+        <item name="android:background">@drawable/voaleq4_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn4_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Ring">
+        <item name="android:layout_width">@dimen/btn_width2</item>
+        <item name="android:layout_height">@dimen/btn_height2</item>
+        <item name="android:background">@drawable/ring_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn1_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Ring2">
+        <item name="android:layout_width">@dimen/btn_width2</item>
+        <item name="android:layout_height">@dimen/btn_height2</item>
+        <item name="android:background">@drawable/ring2_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn2_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Ring3">
+        <item name="android:layout_width">@dimen/btn_width2</item>
+        <item name="android:layout_height">@dimen/btn_height2</item>
+        <item name="android:background">@drawable/ring3_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn3_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+    <style name="Ring4">
+        <item name="android:layout_width">@dimen/btn_width2</item>
+        <item name="android:layout_height">@dimen/btn_height2</item>
+        <item name="android:background">@drawable/ring4_item</item>
+        <item name="android:layout_marginLeft">@dimen/left</item>
+        <item name="android:text">@string/btn4_text</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+</resources>
